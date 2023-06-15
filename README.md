@@ -3,13 +3,6 @@
 <h1 align=center>Sistema para controle de finanças pessoais</h1>
 
 
-
-Para o seu desenvolvimento foi liberado o layout que você pode encontrar no seguinte 
-
-Além disso, você pode acessar o mapa mental com o mapeamento das funcionalidades clicando no seguinte 
-
-Aqui está a documentação da API que será usada no desenvolvimento do desafio 
-
 O sistema trata-se de uma aplicação para controle de finanças pessoais. 
 Foi utilizado conhecimentos em React, integração com API, uso de componentes e etc.                   
 
